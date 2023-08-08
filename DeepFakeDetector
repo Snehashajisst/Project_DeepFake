@@ -1,5 +1,3 @@
-#Pretty bad password. Try to create something less bruteforceable :)
-#I'm sorry 
 
 import gradio as gr
 import torch
